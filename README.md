@@ -3,10 +3,10 @@
  Air quality information using websocket, on your iPhone. Swift 5.
  
 # Features
- -> Live city wise AQI(Air Quality Index) table/\
+ -> Live city wise AQI(Air Quality Index) table.\
  -> AQI highlighted by diffrent colours based on levels.\
  -> AQI upto two decimal places.\
- -> Chart of the AQI of the selected city.\
+ -> Chart of the AQI of the selected city.
 
 # How does the app look like?
 
