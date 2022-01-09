@@ -6,6 +6,7 @@
  -> Live city wise AQI(Air Quality Index) table.\
  -> AQI highlighted by diffrent colours based on levels.\
  -> AQI upto two decimal places.\
+ -> Update cell background colour when index will change from good to poor.
  -> Chart of the AQI of the selected city.
 
 # How does the app look like?
