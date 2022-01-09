@@ -1,0 +1,6 @@
+framework module Pods_AQMAppTests {
+  umbrella header "Pods-AQMAppTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
